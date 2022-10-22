@@ -5,3 +5,7 @@
 
 
 Repository for logging ratings and short opinions about series and movies on netflix.
+
+
+Repository contains separate files for movie and series rating, also file for series opinions.
+
